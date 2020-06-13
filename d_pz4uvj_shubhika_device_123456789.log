@@ -233,3 +233,4 @@
 2020-06-13 21:36:05,697   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
 2020-06-13 21:36:10,436   ibmiotf.device.Client      INFO    Connected successfully: d:pz4uvj:shubhika_device:123456789
 2020-06-13 21:36:17,606   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-06-14 01:02:04,570   ibmiotf.device.Client      INFO    Connected successfully: d:pz4uvj:shubhika_device:123456789
